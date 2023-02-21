@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=platong98&show_icons=true&locale=en&layout=compact" alt="platong98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=platong98&show_icons=true&locale=en" alt="platong98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PLATONG34821&show_icons=true&theme=dark" alt="platong98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=platong98&" alt="platong98" /></p>
